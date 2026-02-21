@@ -1,15 +1,14 @@
-# Soweb
 ⚡ 19yo French developer crafting professional code under a rebel license 🍷
 
 <div align="center">
 
-# 👋 Hey, I'm [Ton Pseudo]
+# 👋 Hey, I'm Soweb.
 
 ### 🇫🇷 French Developer · 📜 Licensed Developer · ⚡ Made in Illegal · 🎂 19 y/o
 
-**👑 Founder & Owner of [Solvion](https://github.com/TONUSERNAME)**
+**👑 Founder & Owner of [Solvion](https://github.com/SowebDevV)**
 
-*Passionate about building scalable systems, automation, performance and clean architecture.*  
+*Passionate about building scalable systems, automation, performance and clean architecture.*
 *Always learning. Always building. 🚀*
 
 ---
@@ -23,6 +22,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
 
 **⚙️ Backend**
 
@@ -43,11 +44,16 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+**🎮 Game Development**
+
+![Roblox](https://img.shields.io/badge/Roblox-E60026?style=for-the-badge&logo=roblox&logoColor=white)
+![FiveM](https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white)
+
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 [Solvion](https://github.com/TONUSERNAME)
+### 🔹 Solvion
 > **Owner & Lead Developer** — Building scalable and optimized solutions.
 
 ### 🔹 Coming Soon
@@ -59,9 +65,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TONUSERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SowebDevV&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TONUSERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SowebDevV&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -73,6 +79,7 @@
 - 🔐 Security & System Optimization
 - 🧠 Advanced Backend Architecture
 - 📈 Performance Engineering
+- 🎮 Roblox & FiveM Game Development
 
 ---
 
@@ -80,8 +87,7 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YourEmail@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TONPROFIL)
+[![Email](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sowebconnect@proton.me)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tonportfolio.com)
 
 </div>
